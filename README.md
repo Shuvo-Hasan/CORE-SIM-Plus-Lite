@@ -2,4 +2,4 @@ My goal was to apply AI and ML in Nuclear Engineering, specifically Reactor Phys
 
 But the data needed for this is very scarce. 
 
-I came across a tool called CORE SIM+, but I cannot access it. So, I tried to build it myself. (Of course, with the help of generative AI. I am using AI as a force multiplier.)
+I came across a tool called CORE SIM+ (https://www.sciencedirect.com/science/article/pii/S0306454921000256), but I cannot access it. So, I tried to build it myself. (Of course, with the help of generative AI. I am using AI as a force multiplier.)
