@@ -1,4 +1,4 @@
-My goal was to apply AI and ML in Nuclear Engineering, specifically Reactor Physics.
+My goal was to apply AI and ML to nuclear engineering problems, specifically in reactor physics.
 
 But the data needed for this is very scarce. 
 
